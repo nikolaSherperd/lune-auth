@@ -80,7 +80,7 @@ The following sections provide visual evidence of the application's implementati
 
 <!-- Insert login screen screenshot below -->
 
-!(docs/screenshots/LoginScreen.png)
+![Login Screen](docs/screenshots/LoginScreen.png)
 
 *Figure 1: LUNE application login interface.*
 
@@ -88,7 +88,7 @@ The following sections provide visual evidence of the application's implementati
 
 <!-- Insert registration screen screenshot below -->
 
-![LUNE Registration Screen](docs/screenshots/RegisterScreen.png)
+![Registration Screen](docs/screenshots/RegisterScreen.png)
 
 *Figure 2: LUNE application registration interface.*
 
