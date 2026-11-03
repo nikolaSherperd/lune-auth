@@ -235,13 +235,9 @@ Potential improvements include:
 
 ## 13. Author
 
-**Developed by:** [Your Full Name]
-
-**Institution:** [Your University]
+**Developed by:** NIKOLA
 
 **Department:** Computer Science
-
-**Academic Level:** [Your Level]
 
 ---
 
