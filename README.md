@@ -80,7 +80,7 @@ The following sections provide visual evidence of the application's implementati
 
 <!-- Insert login screen screenshot below -->
 
-![LUNE Login Screen](docs/screenshots/LoginScreen.png)
+!(docs/screenshots/LoginScreen.png)
 
 *Figure 1: LUNE application login interface.*
 
